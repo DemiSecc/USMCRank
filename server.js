@@ -30,3 +30,7 @@ app.get("/ranker", (req, res) => {
 const listener = app.listen(process.env.PORT, () => {
   console.log("Your app is listening on port " + listener.address().port);
 });
+
+
+
+// >>If you change anything xYu_mmy will eat you!!!!<<
